@@ -1,4 +1,4 @@
-[
+const peopleToSort = [
     {
         "name": "John Doe",
         "age": 45,

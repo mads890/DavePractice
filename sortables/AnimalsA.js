@@ -1,4 +1,4 @@
-[
+const animalsToSort = [
     {
         "animalIdNumber": "AXUR6739",
         "species": "vampire bat",

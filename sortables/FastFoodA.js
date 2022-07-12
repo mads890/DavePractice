@@ -1,4 +1,4 @@
-[
+const foodToSort = [
     {
         "id": "N724",
         "name": "burger",
